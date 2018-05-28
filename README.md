@@ -1,3 +1,10 @@
-# My Awesome Book
+# IoT 學習筆記 - 學習管道
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+## 書籍
+
+已購入：
+
+* 2016-05-30：旗標．趙英傑 - 超圖解物聯網 IoT 實作入門（[9789863123439](https://www.tenlong.com.tw/products/9789863123439)）
+
+
+
