@@ -14,5 +14,13 @@ Mainflux is an open-source IoT cloud platform for the development of Internet of
 
 Website：[https://www.mainflux.com/](https://www.mainflux.com/)
 
-GitHub：[https://github.com/mainflux/mainflux](https://github.com/mainflux/mainflux)
+GitHub：[https://github.com/mainflux](https://github.com/mainflux)
+
+## DeviceHive
+
+DeviceHive is a free, highly scalable open-source IoT platform for data collection, processing and analysis, visualization, and device management with the broad range of integration options.
+
+Website：[https://devicehive.com/](https://devicehive.com/)
+
+GitHub：[https://github.com/devicehive](https://github.com/devicehive)
 
