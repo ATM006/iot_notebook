@@ -2,7 +2,7 @@
 
 ## Kaa
 
-Kaa：Kaa is a free, open-source IoT platform for building, managing, and integrating connected devices with the Internet of Things.
+Kaa is a free, open-source IoT platform for building, managing, and integrating connected devices with the Internet of Things.
 
 Website：[https://www.kaaproject.org/overview/](https://www.kaaproject.org/overview/)
 
