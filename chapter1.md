@@ -30,3 +30,9 @@ SiteWhere is an industrial strength open-source application enablement platform 
 
 GitHub：[https://github.com/sitewhere](https://github.com/sitewhere)
 
+## [ThingSpeak](https://thingspeak.com/)
+
+ThingSpeak is the open IoT platform with MATLAB analytics.
+
+GitHub：[https://github.com/iobridge/thingspeak](https://github.com/iobridge/thingspeak)
+
