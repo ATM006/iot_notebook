@@ -42,18 +42,16 @@ Zetta is an open source platform built on Node.js for creating Internet of Thing
 
 GitHub：[https://github.com/zettajs/zetta](https://github.com/zettajs/zetta)
 
-
-
 | **IoT Software Platform** |
 | :---: |
 
 
 |  | **Device management?** | **Integration** | **Security** | **Protocols for data collection** | **Analytics** | **Support for visualizations?** | **DB** |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Kaa IoT Platform** | Yes | Portable SDK available to integate any particular platfrom, REST API | Link Encryption \(SSL\), RSA key 2048 bits,  AES key 256 bits | MQTT, CoAP, XMPP, TCP, HTTP | Real time IoT Data Analytics and Visualization with Kaa, Apache Cassandra and Apache Zappelin | Yes | MongoDB, Cassandra, Hadoop, Oracle NoSQL |
+| **Kaa IoT Platform** | Yes | Portable SDK available to integate any particular platfrom, REST API | Link Encryption \(SSL\), RSA key 2048 bits,  AES key 256 bits | MQTT, CoAP, XMPP, TCP, HTTP | Real time IoT Data Analytics and Visualization with Kaa, Apache Cassandra and Apache Zappelin | Yes | MongoDB, Cassandra, Hadoop, Oracle NoSQL |
 | **SiteWhere** | Yes | REST API, Mule AnyPoint, and more | Link Encryption \(SSL\), Spring Security | MQTT, AMQP, Stomp, WebSockets, and direct socket connections | Real-time analytics \(Apache Spark\) | No | MongoDB, HBase , InfluxDB |
 | **ThingSpeak** | No | REST and MQTT APIs | Basic Authentication | HTTP | MATLAB Analytics | No | MySQL |
-| **DeviceHive** | \*Unknown |  REST AP, MQTT APIs | Basic Authentication using JSON Web Tokens \(JWT\) | REST API, WebSockets or MQTT | Real-time analytics \(Apache Spark\) | Yes | PostgreSQL ,SAP Hana DB |
+| **DeviceHive** | \*Unknown | REST AP, MQTT APIs | Basic Authentication using JSON Web Tokens \(JWT\) | REST API, WebSockets or MQTT | Real-time analytics \(Apache Spark\) | Yes | PostgreSQL ,SAP Hana DB |
 | **Zetta** | No | REST APIs | Basic Authentication | HTTP | Using Splunk | No | Unknown |
 | **Distributed Services Architecture \(DSA\)** | NO | REST APIs | Basic Authentication | HTTP | No | No | ETSDB – Embedded Time Series |
 | **Thingsboard.io** | Yes | REST APIs | Basic Authentication | MQTT, CoAP and HTTP | Real time analytics\(Apache Spark, Kafka\) | No | Cassandra |
@@ -61,4 +59,12 @@ GitHub：[https://github.com/zettajs/zetta](https://github.com/zettajs/zetta)
 | **WSo2** | Yes | REST APIs | Link Encryption \(SSL\) and basic authentication | HTTP, WSO2 ESB, MQTT | Yes, WSO2 Data Analytics Server | Yes | Oracle, PostgreSQL, MySQL, or MS SQL |
 
 Source：[https://www.how2shout.com/tools/best-opensource-iot-platforms-develop-iot-projects.html](https://www.how2shout.com/tools/best-opensource-iot-platforms-develop-iot-projects.html)
+
+
+
+## [RT-Thread](https://www.rt-thread.org/)
+
+RT-Thread是一個來自中國的開源物聯網操作系統，它提供了非常強的可伸縮能力：從一個可以運行在ARM Cortex-M0芯片上的極小內核，到中等的ARM Cortex-M3/4/ 7系統，甚至是運行於MIPS32、ARM Cortex-A系列處理器上功能豐富系統。
+
+GitHub：[https://github.com/RT-Thread](https://github.com/RT-Thread)
 
