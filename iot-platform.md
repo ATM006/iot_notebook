@@ -8,3 +8,9 @@ GitHub：[https://github.com/Cumulocity](https://github.com/Cumulocity)
 
 Bitbucket：[https://bitbucket.org/m2m/](https://bitbucket.org/m2m/)
 
+## [Telit](https://www.telit.com/m2m-iot-products/iot-platforms/iot-platform-overview/)
+
+With the Telit IoT Platform, your development team can focus on building apps, not infrastructure. The platform allows you to easily connect your things and enterprise systems together, saving you time and allowing you to get your solution to market quickly.
+
+Developer Portal：[https://portal-dev.telit.com/app/login](https://portal-dev.telit.com/app/login)
+
