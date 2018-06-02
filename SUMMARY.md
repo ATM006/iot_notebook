@@ -4,5 +4,6 @@
 * [Open Source IoT Platform](chapter1.md)
 * [IoT Platform](iot-platform.md)
 * [IIoT Platform](iiot-platform.md)
+* [IIoT Gateway](iiot-gateway.md)
 * [M2M, IoT, IoE ...](m2m-iot-ioe.md)
 
