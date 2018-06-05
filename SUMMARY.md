@@ -5,5 +5,6 @@
 * [IoT Platform](iot-platform.md)
 * [IIoT Platform](iiot-platform.md)
 * [IIoT Gateway](iiot-gateway.md)
+* [IoT Develop Center](iot-develop-center.md)
 * [M2M, IoT, IoE ...](m2m-iot-ioe.md)
 
