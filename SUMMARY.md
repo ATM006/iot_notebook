@@ -1,6 +1,6 @@
 # Summary
 
-* [學習管道](README.md)
+* [學習筆記](README.md)
 * [Open Source IoT Platform](chapter1.md)
 * [IoT Platform](iot-platform.md)
 * [IIoT Platform](iiot-platform.md)
