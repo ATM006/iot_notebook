@@ -6,9 +6,9 @@ Predix Platform is a comprehensive and secure application platform to run, scale
 
 Datonis®, an Industrial Internet of Things \(IoT\) platform which helps businesses achieve digital transformation. Learn how Datonis® increase productivity, reduce time-to-market, improve sustainability and gain more output in short duration!![](/assets/datonis-iot-platform-inside-view-altizon-systems-1200x609.png)
 
+## Flutura - [Cerebra](https://www.flutura.com/products.php)
+
 ## Software AG - [Cumulocity](https://www.cumulocity.com/)
-
-
 
 
 
