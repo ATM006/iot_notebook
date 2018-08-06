@@ -14,3 +14,7 @@ With the Telit IoT Platform, your development team can focus on building apps, n
 
 Developer Portal：[https://portal-dev.telit.com/app/login](https://portal-dev.telit.com/app/login)
 
+## [ARM - Pelion IoT Platform](https://www.arm.com/products/iot/pelion-iot-platform)
+
+The Pelion IoT Platform is a flexible, secure, and efficient foundation spanning connectivity, device, and data management. It accelerates the time to value of your IoT deployments by helping you easily connect trusted IoT devices on global networks, invisibly administer them, and extract real-time data from them to drive competitive advantage.
+
